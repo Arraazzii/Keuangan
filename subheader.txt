@@ -1,0 +1,134 @@
+--AKTIVITAS--
+Pendapatan, Penghasilan
+!!--SUBHEADER--!!
+Sumbangan / Hibah
+Penghasilan Bunga Jasa Giro
+Penghasilan Investasi Jangka Panjang
+Pendapatan Lain-lain
+
+Aktiva Bersih yang Berakhir Batasannya
+!!--SUBHEADER--!!
+Berakhir Karena Program
+Berakhir Karena Waktu 
+
+Biaya Program
+!!--SUBHEADER--!!
+Progam Bantuan Pendidikan & Beasiswa
+Program Pengembangan SD
+Program Pengembangan SMK
+Program Pengembangan Pesantren
+Program Perbaikan Gedung Sekolah
+Program Peningkatan Mutu Kepala Sekolah
+Program Perbaikan Gizi
+Program COSI (Pemberdayaan Masyarakat)
+Program Olahraga
+Program Bantuan Bencana Alam
+Program Lainnya
+
+Biaya Umum
+!!--SUBHEADER--!!
+Biaya Pegawai
+Biaya Keperluan Kantor
+Biaya Perjalanan Dinas
+Biaya Transportasi Lokal
+Biaya Operasional
+Biaya Bank
+Biaya Penyusutan
+Pembulatan
+
+Biaya Pencarian Dana
+!!--SUBHEADER--!!
+NULL
+
+
+
+
+--KEUANGAN--
+Aktiva Lancar
+!!--SUBHEADER--!!
+Kas
+Bank
+Piutang
+Investasi Lancar
+Investasi Jangka Panjang
+Uang Muka Pembelian
+
+Aktiva Tidak Lancar
+!!--SUBHEADER--!!
+Aktiva Tetap
+Aktiva Tidak Berwujud
+-/- Akumulasi Penyusutan
+
+Kewajiban Lancar
+!!--SUBHEADER--!!
+Hutang Usaha
+Hutang Pajak
+Pendapatan Diterima Dimuka
+Biaya Yang Masih Harus Dibayar
+
+Kewajiban Jangka Panjang
+!!--SUBHEADER--!!
+Hutang Usaha
+Hutang Pajak
+Pendapatan Diterima Dimuka
+Biaya Yang Masih Harus Dibayar
+
+Aktiva Bersih
+!!--SUBHEADER--!!
+Aktiva Bersih Tidak Terikat
+Aktiva Bersih Terikat Sementara
+Aktiva Bersih Terikat Permanen
+
+
+
+--ARUS KAS--
+Operasi
+!!--SUBHEADER--!!
+Sumbangan / Hibah
+Penghasilan Investasi Jangka Panjang
+Hasil Penjualan Aktiva
+Aktiva Bersih Berakhir Karena Program
+Aktiva Bersih Berakhir Karena Waktu
+Pendapatan Lain-lain
+Realisasi Progam Bantuan Pendidikan & Beasiswa
+Realisasi Program Pengembangan SD
+Realisasi Program Pengembangan SMK
+Realisasi Program Pengembangan Pesantren
+Realisasi Program Perbaikan Gedung Sekolah
+Realisasi Program Peningkatan Mutu Kepala Sekolah
+Realisasi Program Perbaikan Gizi
+Realisasi Program COSI (Pemberdayaan Masyarakat)
+Realisasi Program Olahraga
+Realisasi Program Bantuan Bencana Alam
+Realisasi Program Lainnya
+Penempatan Investasi Jangka Panjang
+Pembayaran Untuk Biaya Pegawai
+Pembayaran Untuk Biaya Keperluan Kantor
+Pembayaran Untuk Biaya Perjalanan Dinas
+Pembayaran Untuk Biaya Transportasi Lokal
+Pembayaran Untuk Biaya Operasional
+Pembayaran Untuk Biaya Bank
+Pembulatan
+Hutang Pajak
+Hutang Pajak Yang Dilunasi
+Hutang Lainnya
+Pendapatan Diterima Dimuka
+Biaya Dibayar Dimuka
+Biaya Yang Masih Harus Dibayar
+Pelunasan Dari Hutang Biaya Thn 2016
+Penempatan Deposito
+
+Penerimaan dari Bank, Jasa Giro & Deposito
+!!--SUBHEADER--!!
+Penerimaan Jasa Giro
+Penerimaan Bunga Deposito
+
+Penghapusan/(Penambahan) Aktiva Tetap
+!!--SUBHEADER--!!
+Aktiva Tetap - Harga Perolehan
+Aktiva Tidak Berwujud - Perolehan
+
+Pembayaran Kewajiban Jangka Panjang
+!!--SUBHEADER--!!
+Hutang Pihak III
+Hutang Jangka Panjang 
